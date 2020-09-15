@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<General>
+ <bShowCal>1</bShowCal>
+ <sWallpaper></sWallpaper>
+
+ <users>
+  <Roee level="M" pass="XXX" checksum=""/>
+  <Kursat level="S" pass="XXX" checksum=""/>
+  <Ovunc level="S" pass="XXX" checksum=""/>
+  <abc level="S" pass="XXX" checksum=""/>
+ </users>
+
+</General>
